@@ -6,7 +6,7 @@
 The traditional JOKENPO game (Rock, Scissors, Paper)
 Play it against the computer
 
-![Spilialogo](https://user-images.githubusercontent.com/102762000/168400302-2e2dd256-42f5-411f-af56-f55a19efe878.png)
+![Hero's journey](https://user-images.githubusercontent.com/102762000/168407520-6cd1409c-83bd-4ff4-b173-c60884db0824.png)
 
 ## Installation
 
